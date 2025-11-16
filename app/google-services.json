@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116809114460",
+    "project_id": "tasknest-a9ca4",
+    "storage_bucket": "tasknest-a9ca4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116809114460:android:bf85b8ad6f4cae81249799",
+        "android_client_info": {
+          "package_name": "com.example.tasknest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6k6Dapqfmcvya_v5U9Z_plilAH_zt63k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
